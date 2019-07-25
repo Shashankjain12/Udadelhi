@@ -24,6 +24,8 @@ Looking for some active participation from everyone.
 2. I after reviewing the submission will be pushing to the github repository
 3. Will be posting some course related items and will be pushing the code to the repository to code along with some of the crucial concepts related to machine learning
 
+**Some of the MNIST GAN's Magic**
+![alt text](https://github.com/Shashankjain12/Udadelhi/blob/master/images/gan1.png)
 **And lastly lot of fun and Open Source with Everyone**
 
 **Happy Coding Guys!!**
