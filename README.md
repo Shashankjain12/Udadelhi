@@ -26,6 +26,8 @@ Looking for some active participation from everyone.
 
 **Some of the MNIST GAN's Magic**
 ![alt text](https://github.com/Shashankjain12/Udadelhi/blob/master/images/gan1.png)
+
+
 **And lastly lot of fun and Open Source with Everyone**
 
 **Happy Coding Guys!!**
