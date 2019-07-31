@@ -28,7 +28,7 @@ Looking for some active participation from everyone.
 ![alt text](https://github.com/Shashankjain12/Udadelhi/blob/master/images/gan1.png)
 
 **Neural Style Transfer pics**
-![alt text](https://github.com/Shashankjain12/Udadelhi/blob/master/images/neural_styletranfer.png)
+![alt text](https://github.com/Shashankjain12/Udadelhi/blob/master/images/neural_styletransfer.png)
 ![alt text](https://github.com/Shashankjain12/Udadelhi/blob/master/images/pytorch_neuraltransfer.png)
 
 **And lastly lot of fun and Open Source with Everyone**
