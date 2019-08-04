@@ -15,7 +15,7 @@ The Myers Briggs Type Indicator (or MBTI for short) is a personality type system
     Thinking (T) – Feeling (F)
     Judging (J) – Perceiving (P)
 
-[https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/home.htm] (More can be learned about what these mean here)
+More can be learnt what this means here:- https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/home.htm
 
 So for example, someone who prefers introversion, intuition, thinking and perceiving would be labelled an INTP in the MBTI system, and there are lots of personality based components that would model or describe this person’s preferences or behaviour based on the label.
 
