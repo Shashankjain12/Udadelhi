@@ -64,6 +64,6 @@ mairesse.csv file contains mairesse based feature will not be using now
 for additional reading what mairesse features are can hop over to the link:- [mairesse](http://farm2.user.srcf.net/research/personality/recognizer.html)
 
 
-### Thank you will be looking for your contributions :smile:
+### Thank you, Let's start with our first project together :smile:
 
 
