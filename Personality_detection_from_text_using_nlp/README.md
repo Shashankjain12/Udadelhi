@@ -1,6 +1,6 @@
 <h1 align="center">Dataset Description</h1>
 
-** Dataset 1:
+## Dataset 1:
 
 [Kaggle Link](https://www.kaggle.com/datasnaek/mbti-type)
 
@@ -15,7 +15,7 @@ The Myers Briggs Type Indicator (or MBTI for short) is a personality type system
     Thinking (T) – Feeling (F)
     Judging (J) – Perceiving (P)
 
-[https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/home.htm](More can be learned about what these mean here)
+[https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/home.htm] (More can be learned about what these mean here)
 
 So for example, someone who prefers introversion, intuition, thinking and perceiving would be labelled an INTP in the MBTI system, and there are lots of personality based components that would model or describe this person’s preferences or behaviour based on the label.
 
@@ -39,29 +39,29 @@ For detection of Big-Five personality traits, namely:
     Conscientiousness
     Openness
 
-essays.csv file contains the data which we will be going to hop over for our code
+#### essays.csv- File contains the data which we will be going to hop over for our code
 
-It's of the format in columns
+Entities of the dataset:-
 
-1. Author Id-Numeric
+1. Author Id- Numeric
 
-2. Extroversion- Yes/No (y/n)
+2. Text - Parah
 
-3. Neuroticism- Yes/No (y/n)
+3. Extroversion- Yes/No (y/n)
 
-4. Agreeableness- Yes/No (y/n)
+4. Neuroticism- Yes/No (y/n)
 
-5. Conscientiosness- Yes/No (y/n)
+5. Agreeableness- Yes/No (y/n)
 
-6. Openness- Yes/No (y/n)
+6. Conscientiosness- Yes/No (y/n)
+
+7. Openness- Yes/No (y/n)
 
 based on that we have to make our analysis
 
 mairesse.csv file contains mairesse based feature will not be using now 
 
-for additional reading what mairesse features are can hop over to the link
-
-[mairesse](http://farm2.user.srcf.net/research/personality/recognizer.html)
+for additional reading what mairesse features are can hop over to the link:- [mairesse](http://farm2.user.srcf.net/research/personality/recognizer.html)
 
 
 ### Thank you will be looking for your contributions :smile:
